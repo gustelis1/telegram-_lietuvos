@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="lt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Telegram Lietuva - Lithuanian Community</title>
+    <meta name="description" content="Prisijunk prie Telegram Lietuva bendruomenės - didžiausios lietuvių grupės Telegram platformoje">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            color: #333;
+        }
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            text-align: center;
+        }
+        h1 {
+            color: #2c3e50;
+            margin-bottom: 20px;
+        }
+        .telegram-btn {
+            display: inline-block;
+            background: #0088cc;
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 8px;
+            font-size: 18px;
+            font-weight: bold;
+            margin: 20px 0;
+            transition: all 0.3s ease;
+        }
+        .telegram-btn:hover {
+            background: #006699;
+            transform: translateY(-2px);
+        }
+        .flag {
+            font-size: 48px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="flag">🇱🇹</div>
+        <h1>Telegram Lietuva</h1>
+        <p><strong>Prisijunk prie didžiausios lietuvių Telegram bendruomenės!</strong></p>
+        
+        <p>Čia rasite:</p>
+        <ul style="text-align: left; display: inline-block;">
+            <li>Naujausias naujienas apie Lietuvą</li>
+            <li>Aktyvias diskusijas</li>
+            <li>Lietuvius iš viso pasaulio</li>
+            <li>Įdomius renginius ir pokalbius</li>
+        </ul>
+        
+        <br><br>
+        <a href="https://telegram.im/einuateinu" class="telegram-btn" target="_blank">
+            🚀 Prisijungti prie Telegram Lietuva
+        </a>
+        
+        <p style="margin-top: 30px; color: #666;">
+            Spauskite mygtuką aukščiau, kad prisijungtumėte prie mūsų bendruomenės!
+        </p>
+    </div>
+</body>
+</html>
